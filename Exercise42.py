@@ -3,7 +3,7 @@ if 260.63<=Frequency<=262.63:
     print('Musical note name is: C4')
 elif 292.66<=Frequency<=294.66:
     print('Musical note name is: D4')
-elif 330.63<=Frequency<=328.63:
+elif 328.63<=Frequency<=330.63:
     print('Musical note name is: E4')
 elif 348.23<=Frequency<=350.23:
     print('Musical note name is: F4')
